@@ -1,1 +1,5 @@
-# Add code here
+services:
+  app:
+    build: .
+    ports:
+      - "3000:4567"
