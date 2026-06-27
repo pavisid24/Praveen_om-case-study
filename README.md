@@ -69,17 +69,7 @@ All of the following actions must be taken in the "wild" directory:
 
 Create a new instance of backstage
 
-[https://backstage.io/docs/getting-started/](https://backstage.io/docs/getting-started/)
-
-Create a custom action that will create a new file in the temp workspace.
-
-The custom action must have an id of `my:custom:action`.
-
-[https://backstage.io/docs/features/software-templates/writing-custom-actions](https://backstage.io/docs/features/software-templates/writing-custom-actions)
-
-add the custom action to the example template in the repo
-make sure it is the only action/step in the example template
-
+I was not able to complete Task 4 because I currently do not have hands-on experience with Backstage development and creating custom Backstage actions. Rather than submitting an incomplete or incorrect implementation, I chose to be transparent about this limitation.
 
 ## 5. Submission
 Commit your code to a github repository and give acces to "adamaucamp"
