@@ -69,8 +69,9 @@ All of the following actions must be taken in the "wild" directory:
 
 Create a new instance of backstage
 
-I was not able to complete Task 4 because I currently do not have hands-on experience with Backstage development and creating custom Backstage actions. Rather than submitting an incomplete or incorrect implementation, I chose to be transparent about this limitation.
+Created the custom task and update the config filed under wild directory.
 
 ## 5. Submission
 Commit your code to a github repository and give acces to "adamaucamp"
 (or make the repo public if you want.) But do send the relevant git repo link to adam.aucamp@oldmutual.com when finished.
+
